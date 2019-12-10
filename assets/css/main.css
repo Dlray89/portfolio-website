@@ -1759,7 +1759,11 @@ input, select, textarea {
 	}
 
 	header p {
+<<<<<<< HEAD
 		color: rgba(1, 247, 255, 0.925);
+=======
+		color: rgba(255, 255, 255, 0.5);
+>>>>>>> 2f150971dc56f6f5652276c470821c439ab3b33b
 		position: relative;
 		top: -0.25em;
 	}
@@ -3810,14 +3814,21 @@ input, select, textarea {
 
 		}
 
-/* Main */
+/* Man */
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
+<<<<<<< HEAD
 		background-image: url("images/blue-paint-on-white-surface-2351865.jpg");
 		background-image: url("images/blue-paint-on-white-surface-2351865.jpg");
 		background-image: url("images/blue-paint-on-white-surface-2351865.jpg");
 		background-image: url("images/blue-paint-on-white-surface-2351865.jpg");
+=======
+		background-image: url("images/photo-of-multicolored-abstract-painting-1193743.jpg");
+		background-image: url("images/photo-of-multicolored-abstract-painting-1193743.jpg");
+		background-image: url("images/photo-of-multicolored-abstract-painting-1193743.jpg");
+		background-image: url("images/photo-of-multicolored-abstract-painting-1193743.jpg");
+>>>>>>> 2f150971dc56f6f5652276c470821c439ab3b33b
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3985,10 +3996,17 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
+<<<<<<< HEAD
 		background-image:;
 		background-image:;
 		background-image:;
 		background-image:;
+=======
+		background-image: -moz-
+		background-image: -webkit-
+		background-image: -ms-
+		background-image: 
+>>>>>>> 2f150971dc56f6f5652276c470821c439ab3b33b
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
